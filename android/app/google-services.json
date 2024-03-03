@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571740178087",
+    "project_id": "pet-app-phalanx-1",
+    "storage_bucket": "pet-app-phalanx-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571740178087:android:76bd6fd61ab049bb3d3d82",
+        "android_client_info": {
+          "package_name": "com.example.pet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2yDNemWszYByvoG1s7btAVXwy9L8QsLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
